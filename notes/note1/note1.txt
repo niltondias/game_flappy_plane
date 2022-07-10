@@ -1,0 +1,39 @@
+1 - Player
+	1.1 - Importando as sprites do avião - FEITO
+	1.2 - Criar o objeto do avião, dar o sprite pra ele e coloca-lo na room - FEITO
+	1.3 - Caindo ao inciar o jogo - FEITO
+	1.4 - Quando apertar spaco o avião suba - FEITO
+	1.5 - Simulando a gravidade contínua - FEITO
+	1.6 - Limitando da velocidade da queda - FEITO
+	1.7 - Reiniciando quando colidir com o player - FEITO
+	
+2 - Obstaculos
+	2.1 - Criar os sprites das montanhas - FEITO
+	2.2 - Criar os objetos das montanhas - FEITO
+	2.3 - Ajustar o espaço entre as montanhas - FEITO
+	2.4 - Movendo as montanhas para a esquerda - FEITO
+	2.5 - Aumentando a velocidade dependendo do level - FEITO
+	
+3 - Geração procedural dos objstáculos
+	3.1 - Criando um evento que repete - FEITO
+	3.2 - Criando as montanhas - FEITO
+	3.3 - Alterando a frequencia da criação das montanhas - FEITO
+	3.4 - Alterando a posição das montanhas - FEITO
+	3.5 - Ajustar o intervalo das montanhas de acordo com o level - FEITO
+	
+4 - Background
+	4.1 - Criando a sprit do background - FEITO
+	4.2 - Colocar movimento no background - FEITO
+	4.3 - Ajustar a velocidade do background de acordo com o level - 
+	
+5 - Sistema de pontos
+	5.1 - Iniciando o sistema de pontos - FEITO
+	5.2 - Ganhando pontos - FEITO
+	5.3 - Exibindo os pontos - FEITO
+	5.4 - Multiplicar os pontos ganhos pelo level atual - FEITO
+	
+6 - Sistema de level
+	6.1 - Iniciando o sistema de level - FEITO
+	6.2 - Ganhando level -FEITO
+	6.3 - Exibindo o level - FEITO
+	
