@@ -8,6 +8,12 @@ if( vspeed > 4 ) {
 	vspeed = 4;
 }
 
+if y >= 432 {
+	// reiniciando o jogo
+	game_restart();
+}
+
+
 
  
  

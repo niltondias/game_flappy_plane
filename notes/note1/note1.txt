@@ -24,7 +24,8 @@
 4 - Background
 	4.1 - Criando a sprit do background - FEITO
 	4.2 - Colocar movimento no background - FEITO
-	4.3 - Ajustar a velocidade do background de acordo com o level - 
+	4.3 - Ajustar a velocidade do background de acordo com o level - FEITO
+	4.4 - Criar o sprite do chão
 	
 5 - Sistema de pontos
 	5.1 - Iniciando o sistema de pontos - FEITO

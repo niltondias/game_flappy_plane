@@ -7,6 +7,7 @@
     {"id":{"name":"obj_aviao","path":"objects/obj_aviao/obj_aviao.yy",},"order":0,},
     {"id":{"name":"obj_level","path":"objects/obj_level/obj_level.yy",},"order":4,},
     {"id":{"name":"fnt_pontos","path":"fonts/fnt_pontos/fnt_pontos.yy",},"order":0,},
+    {"id":{"name":"spr_chao","path":"sprites/spr_chao/spr_chao.yy",},"order":5,},
     {"id":{"name":"spr_aviao","path":"sprites/spr_aviao/spr_aviao.yy",},"order":0,},
     {"id":{"name":"obj_montanha_baixo","path":"objects/obj_montanha_baixo/obj_montanha_baixo.yy",},"order":1,},
     {"id":{"name":"spr_level","path":"sprites/spr_level/spr_level.yy",},"order":4,},
