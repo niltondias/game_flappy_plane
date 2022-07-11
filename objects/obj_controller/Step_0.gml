@@ -3,13 +3,15 @@
 
 pontos += 0.1 * global.level;
 
-
 // Ganhando level se os pontos forem maior do que 100
 if(pontos > proximo_level) {
 	global.level++;
 	
 	// Aumentando pontos necessário para o próximo level
 	proximo_level *= 2;
+	
+	// Tocar o som de level up quando subir de level
+	audio_play_sound(snd_level_up, 1, false);
 }
 
 // Ajustando a velocidade do background

@@ -6,6 +6,7 @@
 	1.5 - Simulando a gravidade contínua - FEITO
 	1.6 - Limitando da velocidade da queda - FEITO
 	1.7 - Reiniciando quando colidir com o player - FEITO
+	1.8 - Criar uma fumaça toda vez que o player sobur - 
 	
 2 - Obstaculos
 	2.1 - Criar os sprites das montanhas - FEITO
@@ -37,4 +38,8 @@
 	6.1 - Iniciando o sistema de level - FEITO
 	6.2 - Ganhando level -FEITO
 	6.3 - Exibindo o level - FEITO
+	
+7 - Sons do jogo
+	7.1 - Criando os sons - FEITO
+	7.2 - Tocando a música - FEITO
 	
