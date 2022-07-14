@@ -6,7 +6,9 @@
 	1.5 - Simulando a gravidade contínua - FEITO
 	1.6 - Limitando da velocidade da queda - FEITO
 	1.7 - Reiniciando quando colidir com o player - FEITO
-	1.8 - Criar uma fumaça toda vez que o player sobur - 
+	1.8 - Criar uma fumaça toda vez que o player subir - FEITO
+	1.9 - Fazendo a fumaça crescer e 
+	1.10 - Fazendo a imagem desaparecer
 	
 2 - Obstaculos
 	2.1 - Criar os sprites das montanhas - FEITO
